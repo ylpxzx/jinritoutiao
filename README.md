@@ -9,6 +9,6 @@
 
 储存在本地目录
 
-![Image text](https://raw.github.com/ylpxzx/jinritoutiao/master/img/1.png)
 ![Image text](https://raw.github.com/ylpxzx/jinritoutiao/master/img/2.png)
+![Image text](https://raw.github.com/ylpxzx/jinritoutiao/master/img/1.png)
 
